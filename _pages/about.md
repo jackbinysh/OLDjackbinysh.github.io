@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Jack</strong> Binysh 
+description: <a href="">Affiliations</a>. Centre For Complexity Science. University of Warwick 
 
 profile:
   align: right
