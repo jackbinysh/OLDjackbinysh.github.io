@@ -2,6 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
+bannerimage: banner.png
 published: false
 description: A growing collection of your cool projects.
 ---
