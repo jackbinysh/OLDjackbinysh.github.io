@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Jack Binysh 
-description: IAS Early Career Fellow, Centre For Complexity Science, Mathematics Department, University of Warwick.
+description: Research Associate, Physics Department, University of Bath.
 bannerimage: banner.png
 profile:
   align: right
