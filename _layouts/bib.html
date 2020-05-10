@@ -53,6 +53,12 @@
     </span>
   {% endif %}
 
+  {% if entry.note %}
+  <ol class="note">
+      <li> <span >{{entry.note}}</span></li>
+  </ol>
+  {% endif %}
+
   <span class="links">
   {% if entry.abstract %}
     [<a class="abstract">Abs</a>]
@@ -86,4 +92,6 @@
     <p>{{ entry.abstract }}</p>
   </span>
   {% endif %}
+
+
 </div>

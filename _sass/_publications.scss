@@ -27,6 +27,9 @@
 
         span { display: block; }
         .title { font-weight: bolder; }
+        .note { 
+                list-style-type:disc ;
+            }
         .author {
             a {
                 border-bottom: 1px dashed $theme-color;
